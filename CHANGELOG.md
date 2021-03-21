@@ -1,5 +1,8 @@
 # Changelog
 
+### v2.31.1
+* Upgraded dependencies for Meteor 2.x compatability
+
 ### v2.31.0
 
 * Fix MeteorX dependency. See [#3](https://github.com/lmachens/kadira/pull/3).Thx @KoenLav.
